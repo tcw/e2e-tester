@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.github.tcw</groupId>
-    <artifactId>juint-rest</artifactId>
+    <artifactId>e2e-tester</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>juint-rest</name>
     <description>Demo for junit over rest</description>
